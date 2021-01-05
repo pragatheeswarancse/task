@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="143" height="126" viewBox="0 0 143 126">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_6" data-name="Rectangle 6" width="143" height="126" rx="16" transform="translate(152 1130)" fill="#fff"/>
+    </clipPath>
+  </defs>
+  <g id="Group_21" data-name="Group 21" transform="translate(-159 -1156)">
+    <g id="Mask_Group_1" data-name="Mask Group 1" transform="translate(7 26)" clip-path="url(#clip-path)">
+      <g id="video-pause-button" transform="translate(160.5 1130)">
+        <g id="Group_17" data-name="Group 17">
+          <path id="Path_13" data-name="Path 13" d="M63,126A63,63,0,1,0,0,63,63,63,0,0,0,63,126ZM63,10.08A52.92,52.92,0,1,1,10.08,63,52.981,52.981,0,0,1,63,10.08Z" fill="none" stroke="#010002" stroke-width="0.463" stroke-dasharray="6"/>
+          <path id="Path_20" data-name="Path 20" d="M63,126A63,63,0,1,0,0,63,63,63,0,0,0,63,126ZM63,10.08A52.92,52.92,0,1,1,10.08,63,52.981,52.981,0,0,1,63,10.08Z" fill="none" stroke="#010002" stroke-width="0.463" stroke-dasharray="6"/>
+        </g>
+        <g id="Group_18" data-name="Group 18">
+          <path id="Path_13-2" data-name="Path 13" d="M63,126A63,63,0,1,0,0,63,63,63,0,0,0,63,126ZM63,10.08A52.92,52.92,0,1,1,10.08,63,52.981,52.981,0,0,1,63,10.08Z" fill="none" stroke="#010002" stroke-width="0.463" stroke-dasharray="6"/>
+          <path id="Path_20-2" data-name="Path 20" d="M63,126A63,63,0,1,0,0,63,63,63,0,0,0,63,126ZM63,10.08A52.92,52.92,0,1,1,10.08,63,52.981,52.981,0,0,1,63,10.08Z" transform="translate(0 142)" fill="none" stroke="#010002" stroke-width="0.463" stroke-dasharray="6"/>
+        </g>
+      </g>
+    </g>
+    <path id="Path_27" data-name="Path 27" d="M94.585,67.086,63,44.44a5.092,5.092,0,0,0-8.059,4.138V93.871A5.092,5.092,0,0,0,63,98.009L94.584,75.362A5.091,5.091,0,0,0,94.585,67.086Z" transform="translate(161 1145.999)" fill="#27e9a2"/>
+  </g>
+</svg>

@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="143" height="126" viewBox="0 0 143 126">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_6" data-name="Rectangle 6" width="143" height="126" rx="16" transform="translate(152 1130)" fill="#fff"/>
+    </clipPath>
+  </defs>
+  <g id="Mask_Group_1" data-name="Mask Group 1" transform="translate(-152 -1130)" clip-path="url(#clip-path)">
+    <g id="video-pause-button" transform="translate(160.5 1130)">
+      <g id="Group_17" data-name="Group 17">
+        <path id="Path_13" data-name="Path 13" d="M63,126A63,63,0,1,0,0,63,63,63,0,0,0,63,126ZM63,10.08A52.92,52.92,0,1,1,10.08,63,52.981,52.981,0,0,1,63,10.08Z" fill="none" stroke="#010002" stroke-width="0.463" stroke-dasharray="6"/>
+        <path id="Path_14" data-name="Path 14" d="M51.292,92.716a6.3,6.3,0,0,0,6.3-6.3V38.536a6.3,6.3,0,0,0-12.6,0v47.88A6.3,6.3,0,0,0,51.292,92.716Z" fill="#27e9a2"/>
+        <path id="Path_15" data-name="Path 15" d="M76.492,92.716a6.3,6.3,0,0,0,6.3-6.3V38.536a6.3,6.3,0,1,0-12.6,0v47.88A6.3,6.3,0,0,0,76.492,92.716Z" fill="#27e9a2"/>
+        <path id="Path_20" data-name="Path 20" d="M63,126A63,63,0,1,0,0,63,63,63,0,0,0,63,126ZM63,10.08A52.92,52.92,0,1,1,10.08,63,52.981,52.981,0,0,1,63,10.08Z" fill="none" stroke="#010002" stroke-width="0.463" stroke-dasharray="6"/>
+      </g>
+      <g id="Group_18" data-name="Group 18">
+        <path id="Path_13-2" data-name="Path 13" d="M63,126A63,63,0,1,0,0,63,63,63,0,0,0,63,126ZM63,10.08A52.92,52.92,0,1,1,10.08,63,52.981,52.981,0,0,1,63,10.08Z" fill="none" stroke="#010002" stroke-width="0.463" stroke-dasharray="6"/>
+        <path id="Path_14-2" data-name="Path 14" d="M51.292,92.716a6.3,6.3,0,0,0,6.3-6.3V38.536a6.3,6.3,0,0,0-12.6,0v47.88A6.3,6.3,0,0,0,51.292,92.716Z" fill="#27e9a2"/>
+        <path id="Path_15-2" data-name="Path 15" d="M76.492,92.716a6.3,6.3,0,0,0,6.3-6.3V38.536a6.3,6.3,0,1,0-12.6,0v47.88A6.3,6.3,0,0,0,76.492,92.716Z" fill="#27e9a2"/>
+        <path id="Path_20-2" data-name="Path 20" d="M63,126A63,63,0,1,0,0,63,63,63,0,0,0,63,126ZM63,10.08A52.92,52.92,0,1,1,10.08,63,52.981,52.981,0,0,1,63,10.08Z" transform="translate(0 142)" fill="none" stroke="#010002" stroke-width="0.463" stroke-dasharray="6"/>
+      </g>
+    </g>
+  </g>
+</svg>
