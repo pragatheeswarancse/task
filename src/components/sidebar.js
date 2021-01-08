@@ -9,7 +9,7 @@ const Sidebar = (props) => {
         >
           <div>
             <ul className="flex flex-col ">
-              <li className="py-12 px-12">
+              <li className="py-12 px-12 ">
                 <a href="/" className="">
                 <svg  xmlns="http://www.w3.org/2000/svg" width="34" height="48" viewBox="0 0 94 168">
                     <g id="Group_2" data-name="Group 2" transform="translate(-372 -432)">
@@ -23,7 +23,7 @@ const Sidebar = (props) => {
            </div>
            <div>
            <ul className="flex flex-col ">
-              <li className="py-5 px-10 shadow-none">
+              <li className="py-5 px-10 shadow-none hover:text-purple-700">
                 <a href="/" className=" ">
                     <svg className="fill-current text-black bg-none hover:text-purple-700 hover:shadow-md" xmlns="http://www.w3.org/2000/svg" width="34" height="34" viewBox="0 0 153 131">
                       <g id="Group_1" data-name="Group 1" transform="translate(-208 -817)">
@@ -41,7 +41,7 @@ const Sidebar = (props) => {
               </li>
             </ul>
             <ul className="flex flex-col ">
-              <li className="py-5 px-10 shadow-none">
+              <li className="py-5 px-10 shadow-none hover:text-purple-700">
                 <a href="/" className=" ">
                 <svg className="fill-current text-black bg-none hover:text-purple-700 hover:shadow-md" xmlns="http://www.w3.org/2000/svg" width="34" height="34" viewBox="0 0 153 131">
   <g id="Group_10" data-name="Group 10" transform="translate(-464 -1292)">
@@ -65,33 +65,33 @@ const Sidebar = (props) => {
               </li>
             </ul>
             <ul className="flex flex-col ">
-              <li className="py-5 px-10 shadow-none">
-                <a href="/" className=" ">
+              <li className="py-5 px-10 shadow-none hover:text-purple-700">
+                <a href="/" className="">
                 <svg className="fill-current text-black bg-none hover:text-purple-700 hover:shadow-md" xmlns="http://www.w3.org/2000/svg" width="34" height="34" viewBox="0 0 153 131">
   <g id="Group_9" data-name="Group 9" transform="translate(-427 -1455)">
     <rect id="Rectangle_4" data-name="Rectangle 4" width="153" height="131" rx="16" transform="translate(427 1455)" fill="#fff"/>
     <g id="statistical" transform="translate(853.585 1460.433) rotate(90)">
       <g id="Group_6" data-name="Group 6" transform="translate(15 304.307)">
         <g id="Group_5" data-name="Group 5">
-          <path id="Path_9" data-name="Path 9" d="M29.98,239.3H4.02C1.8,239.3,0,241.84,0,244.967v73.145c0,3.127,1.8,5.663,4.02,5.663H29.98c2.22,0,4.02-2.535,4.02-5.663V244.967C34,241.84,32.2,239.3,29.98,239.3Z" transform="translate(0 -239.304)" fill="#fff" stroke="#000" stroke-width="6"/>
+          <path id="Path_9" data-name="Path 9" d="M29.98,239.3H4.02C1.8,239.3,0,241.84,0,244.967v73.145c0,3.127,1.8,5.663,4.02,5.663H29.98c2.22,0,4.02-2.535,4.02-5.663V244.967C34,241.84,32.2,239.3,29.98,239.3Z" transform="translate(0 -239.304)" fill="#fff" stroke="#000" strokeWidth="6"/>
         </g>
       </g>
       <g id="Group_8" data-name="Group 8" transform="translate(70.347 304.774)">
         <g id="Group_7" data-name="Group 7">
-          <path id="Path_10" data-name="Path 10" d="M215.373,23.658h-25.96c-2.22,0-4.02,1.359-4.02,3.035v78.4c0,1.676,1.8,3.035,4.02,3.035h25.96c2.22,0,4.02-1.359,4.02-3.035v-78.4C219.393,25.017,217.593,23.658,215.373,23.658Z" transform="translate(-185.393 -23.658)" fill="#fff" stroke="#000" stroke-width="6"/>
+          <path id="Path_10" data-name="Path 10" d="M215.373,23.658h-25.96c-2.22,0-4.02,1.359-4.02,3.035v78.4c0,1.676,1.8,3.035,4.02,3.035h25.96c2.22,0,4.02-1.359,4.02-3.035v-78.4C219.393,25.017,217.593,23.658,215.373,23.658Z" transform="translate(-185.393 -23.658)" fill="#fff" stroke="#000" strokeWidth="6"/>
         </g>
       </g>
     </g>
   </g>
 </svg>
-                   <p>Export</p>
+                   <p className="hover:text-purple-700">Export</p>
                 </a>
               </li>
             </ul>
             <ul className="flex flex-col ">
-              <li className="pt-80 pb-4 px-10 shadow-none">
+              <li className="pt-80 pb-4 px-10 shadow-none hover:text-purple-700">
                 <a href="/" className=" ">
-                <svg className="fill-current text-black bg-none hover:text-purple-700 hover:shadow-md" xmlns="http://www.w3.org/2000/svg" width="34" height="34" viewBox="0 0 143 126">
+                <svg className="fill-current text-black bg-none hover:shadow-md" xmlns="http://www.w3.org/2000/svg" width="34" height="34" viewBox="0 0 143 126">
   <g id="Group_15" data-name="Group 15" transform="translate(-464 -1637)">
     <rect id="Rectangle_5" data-name="Rectangle 5" width="143" height="126" rx="16" transform="translate(464 1637)" fill="#fff"/>
     <g id="logout" transform="translate(488 1648.15)">
